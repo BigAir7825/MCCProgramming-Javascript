@@ -1,0 +1,23 @@
+$(document).ready(function() {
+    var femaleName1 = prompt("Please enter a female name (1 of 2)");
+    var femaleName2 = prompt("Please anter a female name (2 of 2)");
+    var maleName1 = prompt("Please enter a male name");
+    var job1 = prompt("Please enter a job");
+    var state1 = prompt("Please enter a State");
+    var geoFeature1 = prompt("Please enter a geographic feature");
+    var noun1 = prompt("Please enter a noun (1 of 3)");
+    var noun2 = prompt("Please enter a noun (2 of 3)");
+    var noun3 = prompt("Please enter a noun (3 of 3)");
+    $("#name1").text(femaleName1);
+    $("#name3").text(femaleName2);
+    $("#name2").text(maleName1);
+    $("#name1e2").text(femaleName1);
+    $("#name3e2").text(femaleName2);
+    $("#name2e2").text(maleName1);    
+    $("#job1").text(job1);
+    $("#state1").text(state1);
+    $("#feature1").text(geoFeature1);
+    $("#noun1").text(noun1);
+    $("#noun2").text(noun2);
+    $("#noun3").text(noun3);
+});
