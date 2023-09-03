@@ -1,16 +1,19 @@
-# MCCProgramming-Javascript
-Overview:
-===============================================================================================================================================================================
-This repository is for use as a reference for programming courses I completed as part of my Introduction to Internet Scripting class that I took November 2020 - February 2021.
-===============================================================================================================================================================================
-Class Structure:
-===============================================================================================================================================================================
-This class was an extension of my previous course on Web Page Creation. This class takes the concepts of that class, including the fundamentals of HTML and CSS, and uses Javascript to add some more functionality to the web pages. The overall structure of the course involved lectures twice per week and projects weekly. PHP was also covered in this course, but Javascript was the main focus.
-===============================================================================================================================================================================
-MCC Structure:
-===============================================================================================================================================================================
-Courses at MCC were part of a selective programming academy I applied for through my high school. The process of learning during this academy heavily emphasized self learning. Courses at MCC operate under a quarterly structure, but in the programming academy courses were split over trimesters. Every trimester, I participated in 2 courses that focused on different topics.
-===============================================================================================================================================================================
-Note:
-===============================================================================================================================================================================
-This is not a full list of projects I made in this class, but the ones I had saved on my machine. These projects may not be the most recent version, as use of VCS was required and most projects were saved under a GitLab account that I no longer have access to. The full list of courses is as follows: Computer Programming (in Python), Introduction to Information Technology, Web Page Creation (with CSS and HTML), Java Programming I, Java Programming II, Introduction to Internet Scripting (with JavaScript), Introduction to Database Design (with SQL), Mobile App Development (using Flutter and Dart), SQL Programming, C# Programming I, C# Programming II, and C++ Programming I. Of these courses I was only able to save Java and Javascript.
+# MCC Programming - JavaScript
+
+## Overview
+
+This repository serves as a reference for the programming course I completed during my Introduction to Internet Scripting class, which took place from November 2020 to February 2021.
+
+## Class Structure
+
+The Introduction to Internet Scripting class extended the concepts covered in my previous Web Page Creation course. It built upon the fundamentals of HTML and CSS and introduced JavaScript to enhance the functionality of web pages. The course structure consisted of lectures held twice a week and weekly project assignments. While PHP was also part of the curriculum, JavaScript served as the primary focus.
+
+## MCC Structure
+
+These courses were part of a specialized programming academy I joined through my high school. The academy emphasized self-directed learning. While MCC operates on a quarterly schedule, the programming academy divided courses into trimesters. In each trimester, I participated in two courses, each focusing on different topics.
+
+## Note
+
+This repository does not include a comprehensive list of all the projects I completed in this class but contains those I had saved on my local machine. Please be aware that these projects might not represent the most recent versions, as the use of version control systems (VCS) was required, and most projects were stored on a GitLab account to which I no longer have access.
+
+The full list of courses I completed includes Computer Programming (in Python), Introduction to Information Technology, Web Page Creation (with CSS and HTML), Java Programming I, Java Programming II, Introduction to Internet Scripting (with JavaScript), Introduction to Database Design (with SQL), Mobile App Development (using Flutter and Dart), SQL Programming, C# Programming I, C# Programming II, and C++ Programming I. Among these courses, I was only able to retain Java and JavaScript projects.
